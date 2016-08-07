@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("C:\Sites\sw_goodcoffee\images\Drip_Coffee_Bangkok.jpg");
+  background-image: url("./images/Drip_Coffee_Bangkok.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
